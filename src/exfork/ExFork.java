@@ -1,13 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package exfork;
 
 /**
- *
- * @author flia
+ * Clase base para el examen de 1ºDAM
+ * @author Damian Nogueiras
  */
 public class ExFork {
 
@@ -15,7 +10,7 @@ public class ExFork {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Esta es la clase principal del proyecto
     }
     
 }
